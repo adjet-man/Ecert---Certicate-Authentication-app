@@ -65,7 +65,7 @@ ecert
 
 **Requirements:**
 
-* Node.js and npm (or yarn) installed
+* Node.js and npm installed
 * MySQL database server
 
 **Installation and Setup:**
