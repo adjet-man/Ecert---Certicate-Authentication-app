@@ -71,7 +71,7 @@ ecert
 **Installation and Setup:**
 
 1. Clone this repository: `git clone https://github.com/your-username/ecert.git`
-2. Install dependencies: `npm install` (or `yarn install`)
+2. Install dependencies: `npm install`
 3. Configure your MySQL database connection details in `app.js`:
    - `host`
    - `user`
