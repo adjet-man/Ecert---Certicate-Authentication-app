@@ -1,4 +1,4 @@
-## ecert: A Simple Certificate Authentication System
+## ecert: A Simple Certificate Authentication Web App
 
 **ecert** is a web application designed to help institutions securely verify the authenticity of student certificates. It provides a user-friendly interface for certificate holders and a reliable verification system for authorized personnel.
 
