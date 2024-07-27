@@ -21,10 +21,10 @@ app.use(express.static(path.join(__dirname, 'public')));
  
 // Database connection
 const db = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
+    host: '[host here]',
+    user: '[username here]',
     password: '',
-    database: 'ecert'
+    database: '[database here]'
 });
 
 db.connect(err => {
