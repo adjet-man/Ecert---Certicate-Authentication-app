@@ -51,7 +51,7 @@ app.post('/search', (req, res) => {
     const certificateId = req.body.certificateId;
 
     // Query to fetch student details based on certificate ID
-    const query = 'SELECT * FROM students WHERE certificate_id = ?';
+    const query = 'SELECT * FROM [table_name] WHERE [certificate_id] = ?';
 
     db.query(query, [certificateId], (error, results) => {
         if (error) {
