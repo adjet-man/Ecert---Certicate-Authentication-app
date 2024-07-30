@@ -70,7 +70,7 @@ ecert
 
 **Installation and Setup:**
 
-1. Clone this repository: `git clone https://github.com/your-username/ecert.git`
+1. Clone this repository: `git clone https://github.com/adjet-man/Ecert--Certificate-Authentication-app.git`
 2. Install dependencies: `npm install`
 3. Configure your MySQL database connection details in `app.js`:
    - `host`
